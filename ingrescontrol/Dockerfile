@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.44.0
+FROM us.gcr.io/k8s-artifacts-prod/ingress-nginx/controller:v0.34.1
 MAINTAINER forever23
